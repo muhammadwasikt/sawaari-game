@@ -1,0 +1,25 @@
+# dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# builds
+.next/
+out/
+build/
+dist/
+
+# env & logs
+.env*
+*.log
+dev.log
+server.log
+
+# misc
+*.tsbuildinfo
+.DS_Store
+.zscripts/
+download/
+scripts/
+db/
+examples/
