@@ -235,6 +235,13 @@
         "metadata": "",
         "name": "assets\\Van2.glb",
         "userAdded": true
+      },
+      {
+        "file": "assets/Karachi Taxi.glb",
+        "kind": "model3D",
+        "metadata": "",
+        "name": "assets\\Karachi Taxi.glb",
+        "userAdded": true
       }
     ]
   },
@@ -1937,7 +1944,7 @@
             "isReceivingShadow": true,
             "keepAspectRatio": true,
             "materialType": "StandardWithoutMetalness",
-            "modelResourceName": "assets\\Orange - Sedan Sports.glb",
+            "modelResourceName": "assets\\Karachi Taxi.glb",
             "originLocation": "ModelOrigin",
             "rotationX": 90,
             "rotationY": 0,
